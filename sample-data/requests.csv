@@ -1,0 +1,4 @@
+Timestamp,Email,Branch,Item Code,Cost,MRP,Cost Type,Request Reason,Expected System Cost,Expected GP,Expected GP %
+2026-11-01 09:00:00,requester.a@example.com,Demo Branch A,002626,100,150,Cost,Supplier revised cost,118,32,0.2133333333
+2026-11-01 10:00:00,requester.b@example.com,Demo Branch B,000123,90,120,V.Cost,Revised supplier margin,90,30,0.25
+2026-11-02 23:59:00,requester.a@example.com,Demo Branch A,000456,80,100,Non Vat Cost,Revised price for non-taxable demo item,80,20,0.20

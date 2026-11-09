@@ -1,0 +1,2 @@
+# Synthetic data
+All names, items, agreements and requests are fictional. Requests CSV is a calculation fixture with expected results, not a direct full A:X response import. Import only A:H into a demo table or submit matching examples through the Form. Item-code columns must be imported as text. Tax applicability is illustrative. No actual supplier terms, staff records or business results are included.
